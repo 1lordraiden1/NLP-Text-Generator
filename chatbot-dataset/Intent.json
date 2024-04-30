@@ -12,9 +12,9 @@
                         "Hya there"
                   ],
                   "responses": [
-                        "Hi human, please tell me your GeniSys user",
-                        "Hello human, please tell me your GeniSys user",
-                        "Hola human, please tell me your GeniSys user"
+                        "Hi human, please tell me your name user",
+                        "Hello human, please tell me your name user",
+                        "Hola human, please tell me your name user"
                   ],
                   "extension":  {
                         "function": "",
